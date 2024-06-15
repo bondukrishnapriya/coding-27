@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+@media screen and (min-width: 769px) {
+  .home-mobile-img {
+    display: none;
+  }
+}
+@media screen and (max-width: 768px) {
+  .home-desktop-img {
+    display: none;
+  }
+}
